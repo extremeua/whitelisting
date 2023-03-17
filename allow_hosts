@@ -1,0 +1,32 @@
+# Title: DimaChWhite/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Project home page: https://github.com/extremeua/wiki-js/
+# Project releases:https://github.com/extremeua/wiki-js/releases
+#
+# ===============================================================
+
+# Custom host records are listed here.
+
+# Start DimaChWhite
+0.0.0.0 odoo.com
+0.0.0.0 mo1b.odoo.com
+0.0.0.0 mx1a.odoo.com
+0.0.0.0 mx1b.odoo.com
+0.0.0.0 of12.odoo.com
+0.0.0.0 mo1a-fo.odoo.com
+0.0.0.0 of24.odoo.com
+0.0.0.0 of10.odoo.com
+0.0.0.0 of1.odoo.com
+0.0.0.0 mailsaas4.odoo.com
+0.0.0.0 of1.odoo.com
+0.0.0.0 of14.odoo.com
+0.0.0.0 of22.odoo.com
+0.0.0.0 of18.odoo.com
+0.0.0.0 of12.odoo.com
+0.0.0.0 eu120a.odoo.com
+0.0.0.0 of11.odoo.com
+
+# end whitelist
